@@ -1,0 +1,2 @@
+hi this file was created from github
+don't create code on remote repo
